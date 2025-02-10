@@ -14,6 +14,7 @@ single and two dimensional arrays, file operations, pointers, and structured dat
 
 ### Assessment 🌠
 -[Notes](#assignment)
+
 -[Lab exercise](#labexercise)
 
--[Assignment](#assignment)
+-[Assignment](#assignment(#https://github.com/HuiiShann/SECJ1013-01/tree/main/Assignment))
