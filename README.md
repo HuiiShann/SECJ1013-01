@@ -13,6 +13,7 @@ statements, control structures: sequential, selection and loop, built-in and use
 single and two dimensional arrays, file operations, pointers, and structured data types. 🖥️
 
 ### Assessment 🌠
+-[Notes](#assignment)
 -[Lab exercise](#labexercise)
 
 -[Assignment](#assignment)
